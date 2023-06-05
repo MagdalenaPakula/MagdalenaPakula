@@ -10,7 +10,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MagdalenaPakula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=MagdalenaPakula&icon=1&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
