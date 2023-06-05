@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐩 IT student at Politechnika Łódzka / ISEP Paris💣 I'm currently working on my skills in Web Development and Deep Learning techniques<br>🤟  I'm developing my skills in UX/UI<br>⛏️ I'm currently learning machine learning and MS SQL<br>🦢 Still learning Java <br>👀 Ask me about anything ;)<br>🛩️ Fun fact - I love tasting new cuisines<br>
+🐩 IT student at Politechnika Łódzka / ISEP Paris<br>💣 I'm currently working on my skills in Web Development and Deep Learning techniques<br>🤟  I'm developing my skills in UX/UI<br>⛏️ I'm currently learning machine learning and MS SQL<br>🦢 Still learning Java <br>👀 Ask me about anything ;)<br>🛩️ Fun fact - I love tasting new cuisines<br>
 
 
 ## 🌐 Socials:
