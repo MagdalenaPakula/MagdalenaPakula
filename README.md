@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student at Politechnika Łódzka
+IT student at Lodz University of Technology
 
 
 ## 🌐 Socials:
